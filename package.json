@@ -1,6 +1,7 @@
 {
   "name": "frontend-project-lvl3",
   "version": "1.0.0",
+  "type":"module",
   "description": "rss aggregator project",
   "main": "index.js",
   "scripts": {
