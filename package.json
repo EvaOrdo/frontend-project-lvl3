@@ -1,0 +1,22 @@
+{
+  "name": "frontend-project-lvl3",
+  "version": "1.0.0",
+  "description": "rss aggregator project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvaOrdo/frontend-project-lvl3.git"
+  },
+  "keywords": [
+    "rss"
+  ],
+  "author": "Hanna Mudrak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvaOrdo/frontend-project-lvl3/issues"
+  },
+  "homepage": "https://github.com/EvaOrdo/frontend-project-lvl3#readme"
+}
